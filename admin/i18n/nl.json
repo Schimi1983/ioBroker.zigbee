@@ -21,6 +21,7 @@
     "Delete confirmation": "Bevestig verwijderen",
     "Developer": "Ontwikkelaar",
     "Save the time of the last message per device (last_seen)": "Tijdstip van het laatste bericht per apparaat opslaan (last_seen)",
+    "Save every raw message in msg_from_zigbee (only needed for troubleshooting)": "Elk ruw bericht opslaan in msg_from_zigbee (alleen nodig bij foutopsporing)",
     "Device": "Apparaat",
     "Device details": "Apparaat details",
     "Device information": "Apparaat informatie",

@@ -22,6 +22,7 @@
     "Delete confirmation": "Löschen bestätigen",
     "Developer": "Entwickler",
     "Save the time of the last message per device (last_seen)": "Zeitpunkt der letzten Nachricht je Gerät speichern (last_seen)",
+    "Save every raw message in msg_from_zigbee (only needed for troubleshooting)": "Jede Rohnachricht in msg_from_zigbee speichern (nur zur Fehlersuche nötig)",
     "Device": "Gerät",
     "Device details": "Gerätedetails",
     "Device information": "Geräteinformation",
