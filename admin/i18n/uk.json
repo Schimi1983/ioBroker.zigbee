@@ -21,6 +21,7 @@
     "Delete confirmation": "Підтвердження видалення",
     "Developer": "Розробник",
     "Save the time of the last message per device (last_seen)": "Зберігати час останнього повідомлення для кожного пристрою (last_seen)",
+    "Save every raw message in msg_from_zigbee (only needed for troubleshooting)": "Зберігати кожне необроблене повідомлення в msg_from_zigbee (потрібно лише для пошуку помилок)",
     "Device": "Пристрій",
     "Device details": "Деталі пристрою",
     "Device information": "Інформація про пристрій",

@@ -308,6 +308,7 @@
     "readAtAnnounce": true,
     "restoreGroupsOnRejoin": false,
     "lastSeen": false,
+    "msgFromZigbee": true,
     "startReadDelay": 1,
     "pingTimeout": 300,
     "pingCluster": "",

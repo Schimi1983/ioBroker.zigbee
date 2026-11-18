@@ -22,6 +22,7 @@
     "Delete confirmation": "Delete confirmation",
     "Developer": "Developer",
     "Save the time of the last message per device (last_seen)": "Save the time of the last message per device (last_seen)",
+    "Save every raw message in msg_from_zigbee (only needed for troubleshooting)": "Save every raw message in msg_from_zigbee (only needed for troubleshooting)",
     "Device": "Device",
     "Device details": "Device details",
     "Device information": "Device information",

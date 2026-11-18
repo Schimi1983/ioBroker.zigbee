@@ -21,6 +21,7 @@
     "Delete confirmation": "Usuń potwierdzenie",
     "Developer": "Developer",
     "Save the time of the last message per device (last_seen)": "Zapisuj czas ostatniej wiadomości dla każdego urządzenia (last_seen)",
+    "Save every raw message in msg_from_zigbee (only needed for troubleshooting)": "Zapisuj każdą surową wiadomość w msg_from_zigbee (potrzebne tylko do diagnostyki)",
     "Device": "Urządzenie",
     "Device details": "Urządzenia",
     "Device information": "Informacje o urządzeniu",
